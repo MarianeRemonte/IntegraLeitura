@@ -1,0 +1,1 @@
+export { inicial } from "./screens/inicial";
